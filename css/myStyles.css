@@ -1,0 +1,44 @@
+/* css */
+
+body { 
+	background-color: blue;
+}
+
+
+p{
+
+	width: 80%;
+	font-size: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align:center;
+
+
+}
+#famPic {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#madButton {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+.c {
+	color: purple;
+	font-size: 25px ;
+	background-color: yellow;
+	font-weight: bolder;
+	border-radius 
+}
+
+#finalMadlib{
+
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 60px;
+}
